@@ -1,0 +1,23 @@
+{
+  "name": "es6concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsaripally39/ES6-Concepts.git"
+  },
+  "author": "Nagaraju Saripally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsaripally39/ES6-Concepts/issues"
+  },
+  "homepage": "https://github.com/nsaripally39/ES6-Concepts#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1"
+  }
+}
